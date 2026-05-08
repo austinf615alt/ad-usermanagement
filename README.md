@@ -16,7 +16,8 @@ This project outlines Active Directory User Management within Azure Virtual Mach
 
 <h2>Operating Systems Used </h2>
 
-- Windows Server 2025 Datacenter X64 Gen2
+- Windows 11 Pro version 25H2 (For Azure and Remote Desktop)
+- Windows Server 2025 Datacenter X64 Gen2 (x2 for Client VM and Domain Controller VM)
 
 <h2>High-Level Steps</h2>
 
